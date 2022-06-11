@@ -1,0 +1,129 @@
+@media (max-width: 320px) {
+  .logo__img {
+    width: 100px;
+  }
+
+  .nav {
+    width: 320px;
+    padding: 30px;
+  }
+
+  .menu-close {
+    width: 15px;
+    margin-bottom: 37px;
+  }
+
+  .nav__item:not(:last-child) {
+    margin-bottom: 42px;
+  }
+
+  .search-active {
+    width: 240px;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+
+  .swiper {
+    height: 310px;
+  }
+
+  .hero__content {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero__title {
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+  }
+
+  .hero__descr {
+    text-align: center;
+    max-width: 250px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+
+  .about-us {
+    padding-top: 40px;
+  }
+
+  .about-us__title {
+    font-size: 24px;
+  }
+
+  .about-content__left {
+    margin-bottom: 12px;
+  }
+
+  .about-left__btn {
+    padding: 10px 32px;
+  }
+
+  .about-right__image {
+    width: 64px;
+    margin-bottom: 10px;
+  }
+
+  .tab {
+    margin-bottom: 70px;
+  }
+
+  .tab__container {
+    margin-bottom: 60px;
+  }
+
+  .tab__title {
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 16px;
+  }
+
+  .tab__list {
+    margin-bottom: 16px;
+  }
+
+  .tab__list-step {
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .tab__block-1-right-image {
+    margin-bottom: 16px;
+  }
+
+  .tab__block-1-title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+  }
+
+  .tab__block-1-text {
+    font-size: 14px;
+    line-height: 28px;
+  }
+
+  .tab__block-1-btn-first {
+    font-size: 12px;
+    line-height: 15px;
+    padding: 12px 21px;
+    margin-right: 12px;
+  }
+
+  .tab__block-1-btn-second {
+    font-size: 12px;
+    line-height: 15px;
+    padding: 12px 25px;
+  }
+
+  .footer__footer-block-center {
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+
+}
